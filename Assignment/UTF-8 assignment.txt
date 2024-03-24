@@ -1,0 +1,12 @@
+QUESTION:
+What does <meta charset=UTF-8"> mean in html, and what is it used for?
+
+
+ANSWER:
+
+UTF-8 stands for "UNICODE TRANSFORMATION FORMAT - 8-BIT" and is a character encoding standard that represents each Unicode character with a variable number of 8-bit bytes. It is widely used in computing, including for "ENCODING TEXT" on the INTERNET.
+UTF-8 can represent every character in the Unicode character set, making it capable of handling texts in multiple languages and scripts.
+
+In HTML, UTF-8 encoding allows web pages to display text in various languages and character sets. It ensures that characters from different languages, symbols, and special characters can be properly rendered and displayed on web pages regardless of the user's language or location. By using UTF-8 encoding, HTML DOCUMENTS CAN SUPPORT A WIDE RANGE OF CHARACTERS, MAKING THEM MORE ACCESSIBLE AND INCLUSIVE TO USERS AROUND THE WORLD.
+
+In addition, UTF-8 encoding is the default encoding for HTML5 documents, ensuring compatibility and consistency across different platforms and browsers. in simpler terms, allows browsers to know what character set they're reading and how to display it to users.
