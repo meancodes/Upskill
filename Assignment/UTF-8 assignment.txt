@@ -4,6 +4,10 @@ What does <meta charset=UTF-8"> mean in html, and what is it used for?
 
 ANSWER:
 
+In HTML, the <meta> tag is used to provide metadata about the HTML document. This metadata includes information like the character encoding, viewport settings for responsive design, authorship, keywords for search engines, and more. It's typically placed within the <head> section of an HTML document.
+
+CHARSET is simply an abbreviation for *Character Set".
+
 UTF-8 stands for "UNICODE TRANSFORMATION FORMAT - 8-BIT" and is a character encoding standard that represents each Unicode character with a variable number of 8-bit bytes. It is widely used in computing, including for "ENCODING TEXT" on the INTERNET.
 UTF-8 can represent every character in the Unicode character set, making it capable of handling texts in multiple languages and scripts.
 
