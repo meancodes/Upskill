@@ -1,5 +1,5 @@
 QUESTION:
-What does <meta charset=UTF-8"> mean in html, and what is it used for?
+Explain the significance of the <meta charset=UTF-8"> element in html.
 
 
 ANSWER:
